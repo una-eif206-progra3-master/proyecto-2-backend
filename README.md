@@ -243,8 +243,14 @@ https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?ap
 ## Reglas
 
 1. Trabajar en el mismo nombre de grupo, en minúscula ejemplo: (alpha, beta, charlie, echo, etc)
+
 2. Subir al GitHub del proyecto todos los archivos necesarios para ejecutar las pruebas funcionales.
+
 3. Si se encuentra plagio o copias entre grupos se anula la tarea de acuerdo al reglamento de la universidad.
-5. El profesor únicamente revisa lo que esta en el repositório hasta la fecha de entrega. Cualquier entrega posterior a la fecha acordada se evalua de la siguiente forma.
-   - 1 semana de atraso. Evaluación sobre 80% de la nota.
-   - Mayor 1 semana de atraso. Evaluación sobre 70% de la nota.
+
+4. El profesor únicamente revisa lo que esta en el repositório hasta la fecha de entrega. Cualquier entrega posterior a la fecha acordada se evalua de la siguiente forma.
+
+   - **Las entregas son semanales en las clases los Lunes y Jueves por las próximas 3 semanas**
+
+   - Si existe 1 semana de atraso, se evalua sobre 80% de la nota.
+   - Si existe mas de 1 semana de atraso, se evalua sobre 70% de la nota.
