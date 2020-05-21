@@ -44,15 +44,32 @@ El Dr. Juan Perez, vio el potencial de los ingenieros de la Universidad Nacional
 #### Requerimientos técnicos
 
 - Dos *frontend* hechos en Java (MVC)
+
   - Mantenimiento administrativo
   - Confirmación de citas
+
 - Un *backend* hecho en java con un diseño multicapa
+
   - Webservise RESTFUL
   - Service
   - DAO
   - Base de datos MySQL
+
 - API Externo del Colegio de Médicos de Costa Rica
-  - http://www.medicos.cr/website/index.php/comunicados/21-tarifas
+
+  - Tipos de médicos 
+
+    ```json
+    https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?apiKey=12KfjNX97_amx0iUdS2I_eitAy3jSaOb
+    ```
+
+  - Tipos de servicios
+
+    ```json
+    https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?apiKey=12KfjNX97_amx0iUdS2I_eitAy3jSaOb
+    ```
+
+  - Detalle de los cálculos: http://www.medicos.cr/website/index.php/comunicados/21-tarifas
 
 #### Historias de usuario ([user story](https://www.mountaingoatsoftware.com/agile/user-stories)) 
 
@@ -101,7 +118,7 @@ https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/tipomedicos?
    - Campo para definir al doctor de los que previamente se ingresaron en el sistema.
    - Campo para seleccionar los servicios que el paciente va a realizar. Estos servicios deben de cargarse del API del Colegio de Médicos de Costa Rica 
 
-**API - tipos de médicos**
+**API - tipos de servicios**
 
 ```json
 https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?apiKey=12KfjNX97_amx0iUdS2I_eitAy3jSaOb
