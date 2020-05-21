@@ -3,7 +3,7 @@
 | CODIGO: EIF206           | ESCUELA DE INFORMÁTICA       |
 | ------------------------ | ---------------------------- |
 | NOMBRE: PROGRAMACIÓN III | PROFESOR: Maikol Guzmán Alán |
-| VALOR: 15%               | Puntaje total:               |
+| VALOR: 15%               | Puntaje total: 75 puntos     |
 
 ## Técnicas
 
@@ -227,3 +227,24 @@ https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?ap
 ![wireframe-1](wireframe-1.jpg)
 
 ![wireframe-2](wireframe-2.jpg)
+
+## Evaluación
+
+| Detalle de evaluación                                        | Puntaje |
+| ------------------------------------------------------------ | ------- |
+| **[BÁSICO]** Formato del código, nombres de clases, documentación de código, nombre de paquetes, logger, excepciones. | 12      |
+| **[DISEÑO]** Diagrama de secuencia                           | 2       |
+| **[DOCUMENTACIÓN]** Crear el JavaDoc del Backend.            | 3       |
+| **[ARQUITECTURA]** Uso correcto de los patrones de diseño    | 8       |
+| **[ENTREGA SEMANA 1]** Completar las historias de usario (1 y 2) | 10      |
+| **[ENTREGA SEMANA 2]** Completar las historias de usario (3 y 4) | 20      |
+| **[ENTREGA SEMANA 3]** Completar las historias de usario (5 y 6) | 20      |
+
+## Reglas
+
+1. Trabajar en el mismo nombre de grupo, en minúscula ejemplo: (alpha, beta, charlie, echo, etc)
+2. Subir al GitHub del proyecto todos los archivos necesarios para ejecutar las pruebas funcionales.
+3. Si se encuentra plagio o copias entre grupos se anula la tarea de acuerdo al reglamento de la universidad.
+5. El profesor únicamente revisa lo que esta en el repositório hasta la fecha de entrega. Cualquier entrega posterior a la fecha acordada se evalua de la siguiente forma.
+   - 1 semana de atraso. Evaluación sobre 80% de la nota.
+   - Mayor 1 semana de atraso. Evaluación sobre 70% de la nota.
