@@ -60,7 +60,7 @@ El Dr. Juan Perez, vio el potencial de los ingenieros de la Universidad Nacional
   - Tipos de médicos 
 
     ```json
-    https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/servicios?apiKey=12KfjNX97_amx0iUdS2I_eitAy3jSaOb
+    https://api.mlab.com/api/1/databases/colegio-medicos-cr/collections/tipomedicos?apiKey=12KfjNX97_amx0iUdS2I_eitAy3jSaOb
     ```
 
   - Tipos de servicios
